@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hw2.part1","l":"Individual"},{"p":"hw2.part1","l":"Main"},{"p":"hw2.part2","l":"Main"},{"p":"hw2.part1","l":"Population"},{"p":"hw2.part1","l":"Version1"},{"p":"hw2.part1","l":"Version2"},{"p":"hw2.part1","l":"Version3"}]
