@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hw1.part1","l":"GaussianEliminationMethod"},{"p":"hw1.part1","l":"Main"},{"p":"hw1.part1","l":"MatrixInversionMethod"},{"p":"hw1.part1","l":"Solver"},{"p":"hw1.part1","l":"SolvingMethod"}]
