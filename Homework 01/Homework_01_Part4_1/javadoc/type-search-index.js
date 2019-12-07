@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hw1.part4.factory","l":"Main"},{"p":"hw1.part4.factory","l":"TPX"},{"p":"hw1.part4.factory","l":"TPX_100"},{"p":"hw1.part4.factory","l":"TPX_200"},{"p":"hw1.part4.factory","l":"TPX_300"}]
