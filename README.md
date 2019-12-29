@@ -12,3 +12,5 @@ Working Operating System:
 Homework 01 -> Strategy, Observer, Decorator, Factory and Abstract Factory Design Patterns
 
 Homework 02 -> Genetic Algorithm for Optimize polynomial function with Template Design Pattern
+
+Homework 03 -> Calculates Discrete Fourier Transform with Multiple Threads using GUI
